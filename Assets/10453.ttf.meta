@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eb50c7a3fd7e530459a657c1262beb2d
+timeCreated: 1489576080
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Department H Cyrillic
+  fontNames:
+  - Department H Cyrillic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
